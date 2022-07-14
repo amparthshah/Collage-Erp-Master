@@ -8,8 +8,8 @@ The username is their name and password for everyone is 'project123'.
 
 Example usernames: 
 
-student- 'parth05'  
-password- hello@123
+student- 'aayan'  
+password- project123
 
 admin- admin
 password- hello@123
